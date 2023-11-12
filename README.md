@@ -1,2 +1,0 @@
-# eventfest.github.io
-Webpage
